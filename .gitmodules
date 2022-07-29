@@ -1,0 +1,6 @@
+[submodule "segTACO"]
+	path = segTACO
+	url = git@github.com:zhang677/segTACO.git
+[submodule "segScan"]
+	path = segScan
+	url = git@github.com:zhang677/segScan.git
