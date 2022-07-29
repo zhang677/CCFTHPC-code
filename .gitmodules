@@ -4,3 +4,7 @@
 [submodule "segScan"]
 	path = segScan
 	url = git@github.com:zhang677/segScan.git
+[submodule "taco"]
+	path = taco
+	url = git@github.com:zhang677/taco.git
+	branch = parallelreduction
